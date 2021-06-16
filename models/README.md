@@ -14,4 +14,4 @@ The pretrained model (trained on train_conf=4) is available on: https://drive.go
 
 ## Czech RoBERTa-XLM model:
 
-The pretrained model (trained on train_conf=4) is available on: https://drive.google.com/uc?id=1Sv0OpLyi13HA5miRxbi5HNGmziJ0yQwt
+The pretrained model (trained on train_conf=4) is available on: https://drive.google.com/uc?id=1X-bdeh8qwUQ3GPx3eXqb06HPHQfBwb0q
