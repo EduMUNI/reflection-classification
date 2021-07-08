@@ -17,6 +17,7 @@ in the performance of the students."**
 **"The number of categories in reflective diaries is moderated by the ordering of submission of reflective diaries."**
 
 - The second hypothesis (H2) is connected with results, that only individual and personalized supporting in writing reflection leads to better results in reflective writings Spalding and Wilson (2002, p. 1393). In our setting, we did not give personalized feedback to reflective diaries' writings. Based on this, we supposed hypothesis 2.
+
 **Methodology:**
 - Create prediction of categories of sentences for each participant's diary.
 - Using group.by for overall numbers of each category for each participant's diary.
