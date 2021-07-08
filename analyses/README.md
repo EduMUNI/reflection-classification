@@ -1,7 +1,7 @@
 ## Hypothesis 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ie_b3nADIIvN6W9uaqFo1m5GuQYRzlrQ?usp=sharing)
 
 **"There exists a 'critical reflection' threshold such that, we can see a statistically-significant difference
-in the performance of the students."** [cite?]
+in the performance of the students."** 
 
 - We collect the reflective journals of the candidate teachers from practical sessions, 
   associated with their evaluation on the associated session 
@@ -16,7 +16,6 @@ in the performance of the students."** [cite?]
 
 **"The number of categories in reflective diaries is moderated by the ordering of submission of reflective diaries."**
 
-- Script for analysis: [Here](https://colab.research.google.com/drive/1eMjo-7gmjom1lF6r3MXUgX3wDV9ATSpG?usp=sharing)
 - The second hypothesis (H2) is connected with results, that only individual and personalized supporting in writing reflection leads to better results in reflective writings Spalding and Wilson (2002, p. 1393) (see more chapter: Low level of reflection and fostering of reflective writing). In our setting, we did not give personalized feedback to reflective diaries' writings. Based on this, we supposed hypothesis 2
 **Methodology:**
 - Create prediction of categories of sentences for each participant's diary.
