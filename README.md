@@ -176,7 +176,7 @@ Train >= 6 | 73.825% | 73.154% | 73.154% | 73.825%
 
 **proportion of most-common category in test dataset*
 
-#### English (Google Translate) sentences
+#### English sentences
 
 \ | Test >= 3 | Test >= 4 | Test >= 5 | Test >= 6  
 --- | --- | --- | --- |---  
