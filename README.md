@@ -12,12 +12,23 @@ in related topics.
 For each step, we provide a Google Colab notebook that will set everything ready
 for you to use.
 
-However, the core package 'reflection_classification', as well as evaluation scripts will as well work locally,
-you will just have to install the package to your desired environment.
+However, the core package 'reflection_classification', as well as evaluation scripts will as well work locally. Here are the instructions to run the package in the new environment, for example, locally:
+
+We presume you have linux-like system with python3.8 installed.
 
 ```bash
 git clone {this repository}
-cd reflection_classification
+cd reflection-classification
+
+# do not forget to activate, or create an appropriate environment here:
+# here's how you create it (presuming you have python3.8 installed, 
+# you can check with `which python`, or on Windows `where python`):
+python -m venv reflection
+# on Windows `py -m venv reflection`
+source reflection/bin/activate
+# on Windows: `.\reflection\Scripts\activate`
+
+# install the package with dependences:
 python -m pip install -e .
 ```
 
