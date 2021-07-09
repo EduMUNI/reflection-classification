@@ -41,5 +41,7 @@ in two formats:
     * `y_requires_context`: whether annotators needed to look at the context, when selecting a category.
 
 # Citation and license of database
-APA style: Štefánik, M. & Nehyba, J. (2021). Czech-English Reflective Dataset (CEReD). (Version V1) [Data set]. GitHub. 
+
+[Will be replaced by a reference of dataset with DOI for camera-ready]
+
 The database license is defined by the repository license.
