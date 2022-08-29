@@ -34,7 +34,7 @@ in two formats:
    Again, the tab-separated `sentences.tsv` files contain following 
    attributes:
     * `idx`: unique sentence id
-    * `context`: textual context surrounding the classified sentnece
+    * `context`: textual context surrounding the classified sentence
     * `sentence`: text of the classified sentence
     * `y`: target category of the sentence, that annotators agreed upon
     * `confidence`: confidence, or typicality of the sentence in its assigned category. Annotators were asked: "How typical is this sentence for the picked category?"
