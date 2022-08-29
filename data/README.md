@@ -42,6 +42,6 @@ in two formats:
 
 # Citation and license of database
 
-[Will be replaced by a reference of dataset with DOI for camera-ready]
+APA style: Štefánik, M. & Nehyba, J. (2021). Czech-English Reflective Dataset (CEReD). (Version V1) [Data set]. GitHub. doi:11372/LRT-3573.
 
 The database license is defined by the repository license.
