@@ -1,7 +1,7 @@
 # Reflectivity classification
 
-This repository contains reproducible experiments 
-with classification of reflective types in reflective writings.
+This repository contains reproducible experiments of our article [Applications of deep language models for reflective writings](https://rdcu.be/cUWGY),
+with experiments using classification of reflective types in reflective writings.
 
 We hope that the great ease of reproducibility of our results
 will allow other researchers a head start on further research
