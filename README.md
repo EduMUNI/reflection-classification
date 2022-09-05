@@ -211,3 +211,32 @@ Notebooks also demonstrate how the classifier can be used in practice for your o
 
 If you have read the evaluation scripts and hypotheses notebooks, but still need a support with reproduction, or
 use of classifier for your own research, please create an issue, or contact us at <stefanik.m@mail.muni.cz>.
+
+
+## Citing
+
+If you use or extend our **results or software** in your research, it would be great if you cite us as follows:
+```bibtex
+@Article{Nehyba2022applications,
+  author={Nehyba, Jan and {\v{S}}tef{\'a}nik, Michal},
+  title={Applications of deep language models for reflective writings},
+  journal={Education and Information Technologies},
+  year={2022},
+  month={Sep},
+  day={05},
+  issn={1573-7608},
+  doi={10.1007/s10639-022-11254-7},
+  url={https://doi.org/10.1007/s10639-022-11254-7}
+}
+```
+
+If you use **CEReD dataset**, please use the following citation:
+```bibtex
+ @misc{Stefanik2021CEReD,
+   title = {Czech and English Reflective Dataset ({CEReD})},
+   author = {{\v S}tef{\'a}nik, Michal and Nehyba, Jan},
+   url = {http://hdl.handle.net/11372/LRT-3573},
+   copyright = {Creative Commons - Attribution 4.0 International ({CC} {BY} 4.0)},
+   year = {2021} 
+ }
+```
