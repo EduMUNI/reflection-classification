@@ -126,9 +126,10 @@ These logs are saved in
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wyl93yACMiOvlEzTEXhK1JLHIxS8u4RT#scrollTo=2QtE3ipt9qWe&line=1&uniqifier=1)
 
-Model trained and saved to `--trained_model_dir`, or picked from 
-the *checkpoints* in `trained_model_dir`, or pre-downloaded (refer to `models` directory) 
-can be easily evaluated on held-out test sentences:
+Following command evaluates the accuracy of your model. The model can be 
+1. Downloaded automatically from [HuggingFace](https://huggingface.co/MU-NLPC/XLM-R-large-reflective-conf4) by setting `--TRAINED_MODEL_DIR MU-NLPC/XLM-R-large-reflective-conf4`. Use this option to reproduce our results.
+2. Downloaded manually - see [models](models) directory.
+3. Trained using the script above and picked from `--trained_model_dir` you chose before.
 
 ```bash
 python scripts/eval_neural_classifier.py [--args]
