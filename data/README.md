@@ -1,5 +1,31 @@
 # Czech-English Reflective Dataset (CEReD)
 
+### [Update 14th Sep 2024]: CEReD is now also [available](https://huggingface.co/datasets/MU-NLPC/CEReD) in 🤗 HuggingFace datasets
+
+1. Install the Datasets library with pip:
+
+```shell
+pip install datasets
+```
+
+2. Use the dataset directly in your Python scripts:
+
+```python
+from datasets import load_dataset
+
+ds = load_dataset("MU-NLPC/CEReD", "cs")
+print(print(ds["train"]))
+```
+```python
+Dataset({
+    features: ['idx', 'context', 'sentence', 'y', 'confidence', 'y_requires_context'],
+    num_rows: 6096
+})
+```
+Other ways to access the dataset can also be found on https://huggingface.co/datasets/MU-NLPC/CEReD 
+
+### Access the data from this repository (deprecated)
+
 This directory contains an anonymized data set of reflective diaries/journals
 in two formats:
 
